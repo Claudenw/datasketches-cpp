@@ -1,19 +1,19 @@
 KLL Sketch
 ----------
 
-.. autoclass:: _datasketches.kll_ints_sketch
+.. autoclass:: datasketches.kll_ints_sketch
     :members:
     :undoc-members:
 
-.. autoclass:: _datasketches.kll_floats_sketch
+.. autoclass:: datasketches.kll_floats_sketch
     :members:
     :undoc-members:
 
-.. autoclass:: _datasketches.kll_doubles_sketch
+.. autoclass:: datasketches.kll_doubles_sketch
     :members:
     :undoc-members:
 
-.. autoclass:: _datasketches.kll_items_sketch
+.. autoclass:: datasketches.kll_items_sketch
     :members:
     :undoc-members:
 

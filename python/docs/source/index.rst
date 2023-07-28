@@ -54,9 +54,6 @@ Indices and tables
 .. .. automodule:: datasketches    
 ..    :members:
 
-.. .. automodule:: _datasketches
-..     :members:
-
 .. 
 .. 
 

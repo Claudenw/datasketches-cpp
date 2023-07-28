@@ -2,6 +2,6 @@ HyperLogLog
 -----------
 The HyperLogLog sketch is a space-efficient method for estimating cardinalities of sets.
 
-.. autoclass:: _datasketches.hll_sketch
+.. autoclass:: datasketches.hll_sketch
     :members:
     :undoc-members:
